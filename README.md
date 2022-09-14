@@ -1,1 +1,1 @@
-# Phython_guessing_and_hang_game
+# Python_guessing_and_hang_game
