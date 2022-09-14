@@ -1,3 +1,7 @@
 # Python_guessing_and_hang_game
 Things learned during the development of this project:
- 
+ - fundamentals of python 3
+ - Understanding how the code works
+ - Organizing code with functions
+ - How list and tuples work
+ - Working with files
