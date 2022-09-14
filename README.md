@@ -5,3 +5,4 @@ Things learned during the development of this project:
  - Organizing code with functions
  - How list and tuples work
  - Working with files
+ - Learning about List Comprehension
